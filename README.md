@@ -163,6 +163,6 @@ This project is licensed under the **MIT License**. See the LICENSE file for mor
 
 👤 **Author**  
 GitHub: [SamirYMeshram](https://github.com/SamirYMeshram)  
-Email: [samirYmeshram@gmail.com](mailto:samirYmeshram@gmail.com)
+Email: [sameerYmeshram@gmail.com](mailto:sameerYmeshram@gmail.com)
 ```
 
